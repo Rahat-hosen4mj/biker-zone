@@ -1,6 +1,8 @@
-## biker-zone
+## biker-zone (A simple webpage using bootstrap)
 
-## live site (https://biker-zone3rdpp.netlify.app/)[https://biker-zone3rdpp.netlify.app/]
+## live site link
+Click here for live site link [https://biker-zone3rdpp.netlify.app/](https://biker-zone3rdpp.netlify.app/)
+
 
 
 ## objective (section)
